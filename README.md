@@ -8,4 +8,4 @@ Data is obtained from https://usafacts.org
 
 3. Choropleth of USA displaying for each county the new cases of covid per 100,000 people in a week with animation over time period
 
-4. Choropleth of USA displaying for each county the new cases of covid per 100,000 people in a week with animation over time period.
+4. Choropleth of USA displaying for each county weekly deaths reated to covid per 100,000 people in a week with animation over time period.
